@@ -1,7 +1,106 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a493597e-b0b4-473f-b1a2-d91e5a7d92fa" name="Default" comment="" />
+    <list default="true" id="a493597e-b0b4-473f-b1a2-d91e5a7d92fa" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/fuse-icon-font/fonts/fuse-iconfont4edf.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/fuse-icon-font/fonts/fuse-iconfont4edf.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/fuse-icon-font/fonts/fuse-iconfont4edf.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/icons/fuse-icon-font/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/1.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/4.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/5.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Abbott.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Arnold.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Barrera.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Blair.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Boyle.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Christy.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Copeland.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Estes.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Harper.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Helen.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Henderson.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Josefina.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Katina.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Lily.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Mai.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Nancy.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Nora.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Odessa.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Reyna.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Shauna.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Shepard.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Tillman.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Trevino.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Tyson.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Velazquez.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/alice.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/andrew.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/carl.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/danielle.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/garry.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/james.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/jane.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/joyce.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/katherine.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/profile.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/avatars/vincent.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/backgrounds/header-bg.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/bootstrap-mini-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/ecommerce/product-image-placeholder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/air-balloons.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/avenue.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/cactus.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/early-sunrise.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/fallout.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/mountain-lake.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/mountain-sunset.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/road-trip.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/snow.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/etc/tropical-beach.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/flags/tr.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/flags/us.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/fuse-mini-logo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logos/android.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logos/fallout.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logos/google.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/patterns/rain-grey.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/placeholder.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/apps/calendar/calendar.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/apps/chat/chat.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/apps/dashboard/project.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/apps/dashboard/server.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/apps/e-commerce/orders/orders.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/apps/e-commerce/product/product.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/apps/e-commerce/products/products.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/components/charts/nvd3.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/animate.css/animate.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/d3/d3.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/datatables-responsive/js/dataTables.responsive.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/datatables.net/js/jquery.dataTables.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/fullcalendar/dist/fullcalendar.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/fullcalendar/dist/fullcalendar.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/fullcalendar/dist/fullcalendar.print.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/fuse-html/fuse-html.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/fuse-html/fuse-html.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/jquery/dist/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/mobile-detect/mobile-detect.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/moment/min/moment.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/nvd3/build/nv.d3.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/nvd3/build/nv.d3.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/perfect-scrollbar/css/perfect-scrollbar.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/pnotify/pnotify.custom.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/pnotify/pnotify.custom.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/vendor/popper.js/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -9,8 +108,51 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="286">
+              <caret line="35" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#15283#15289#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="new_mission.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/new_mission.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="367">
+              <caret line="385" column="56" lean-forward="false" selection-start-line="385" selection-start-column="56" selection-end-line="385" selection-end-column="56" />
+              <folding>
+                <element signature="n#select#0;n#div#0;n#div#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#fieldset#2;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#38535#38541#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/new_mission.html" />
+      </list>
+    </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
@@ -18,12 +160,18 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1382" />
+    <option name="height" value="784" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1">
@@ -40,6 +188,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -51,8 +201,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -60,6 +208,13 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../../bin/php/php7.1.9/php.exe" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp64\www\theScore\assets\images" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -72,6 +227,9 @@
         </RuleState>
       </list>
     </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="index.html" type="JavascriptDebugType" factoryName="JavaScript Debug" nameIsGenerated="true" uri="http://localhost:63342/theScore/index.html" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
@@ -86,33 +244,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1518714389579</updated>
-      <workItem from="1518714391094" duration="27000" />
+      <workItem from="1518714391094" duration="6182000" />
+      <workItem from="1518729080002" duration="2099000" />
+      <workItem from="1518731218584" duration="2760000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="27000" />
+    <option name="totallyTimeSpent" value="11041000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="1358" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1429652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39907727" sideWeight="0.502445" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3298731" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23947896" sideWeight="0.49755502" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -123,7 +293,87 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+    </breakpoint-manager>
     <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#15283#15289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#15283#15289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/login_cover.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/logo_dark.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/images/logo_demo.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="35" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#15283#15289#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/new_mission.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="385" column="56" lean-forward="false" selection-start-line="385" selection-start-column="56" selection-end-line="385" selection-end-column="56" />
+          <folding>
+            <element signature="n#select#0;n#div#0;n#div#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#fieldset#2;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#38535#38541#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
