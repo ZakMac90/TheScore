@@ -3,103 +3,13 @@
   <component name="ChangeListManager">
     <list default="true" id="a493597e-b0b4-473f-b1a2-d91e5a7d92fa" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/assets/css/main.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/fuse-icon-font/fonts/fuse-iconfont4edf.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/fuse-icon-font/fonts/fuse-iconfont4edf.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/fuse-icon-font/fonts/fuse-iconfont4edf.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/icons/fuse-icon-font/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/1.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/4.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/5.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Abbott.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Arnold.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Barrera.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Blair.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Boyle.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Christy.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Copeland.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Estes.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Harper.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Helen.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Henderson.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Josefina.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Katina.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Lily.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Mai.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Nancy.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Nora.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Odessa.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Reyna.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Shauna.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Shepard.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Tillman.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Trevino.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Tyson.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/Velazquez.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/alice.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/andrew.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/carl.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/danielle.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/garry.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/james.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/jane.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/joyce.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/katherine.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/profile.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/avatars/vincent.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/backgrounds/header-bg.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/bootstrap-mini-logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/ecommerce/product-image-placeholder.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/air-balloons.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/avenue.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/cactus.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/early-sunrise.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/fallout.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/mountain-lake.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/mountain-sunset.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/road-trip.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/snow.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/etc/tropical-beach.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/flags/tr.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/flags/us.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/fuse-mini-logo.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logos/android.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logos/fallout.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/logos/google.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/patterns/rain-grey.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/images/placeholder.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/apps/calendar/calendar.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/apps/chat/chat.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/apps/dashboard/project.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/apps/dashboard/server.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/apps/e-commerce/orders/orders.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/apps/e-commerce/product/product.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/apps/e-commerce/products/products.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/components/charts/nvd3.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/js/main.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/animate.css/animate.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/bootstrap/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/d3/d3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/datatables-responsive/js/dataTables.responsive.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/datatables.net/js/jquery.dataTables.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/fullcalendar/dist/fullcalendar.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/fullcalendar/dist/fullcalendar.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/fullcalendar/dist/fullcalendar.print.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/fuse-html/fuse-html.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/fuse-html/fuse-html.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/jquery/dist/jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/mobile-detect/mobile-detect.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/moment/min/moment.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/nvd3/build/nv.d3.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/nvd3/build/nv.d3.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/perfect-scrollbar/css/perfect-scrollbar.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/perfect-scrollbar/js/perfect-scrollbar.jquery.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/pnotify/pnotify.custom.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/pnotify/pnotify.custom.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/assets/vendor/popper.js/index.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo_dark.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo_demo.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/logo_light.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/map.PNG" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/assets/images/signature.png" afterPath="" />
       <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change beforePath="$PROJECT_DIR$/new_mission.html" afterPath="$PROJECT_DIR$/new_mission.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -113,35 +23,54 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="35" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+            <state relative-caret-position="220">
+              <caret line="36" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <element signature="e#15283#15289#0" expanded="true" />
+                <element signature="e#10006#10012#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="new_mission.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="new_mission.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/new_mission.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="367">
-              <caret line="385" column="56" lean-forward="false" selection-start-line="385" selection-start-column="56" selection-end-line="385" selection-end-column="56" />
+            <state relative-caret-position="257">
+              <caret line="44" column="102" lean-forward="false" selection-start-line="44" selection-start-column="102" selection-end-line="44" selection-end-column="102" />
               <folding>
                 <element signature="n#select#0;n#div#0;n#div#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#1;n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="n#fieldset#2;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-                <element signature="e#38535#38541#0" expanded="true" />
+                <element signature="e#30838#30844#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="details.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5029">
+              <caret line="225" column="0" lean-forward="true" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+              <folding>
+                <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#10006#10012#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -151,6 +80,7 @@
       <list>
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/new_mission.html" />
+        <option value="$PROJECT_DIR$/details.html" />
       </list>
     </option>
   </component>
@@ -164,7 +94,7 @@
     <servers />
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="-8" />
     <option name="y" value="-8" />
     <option name="width" value="1382" />
@@ -210,10 +140,12 @@
     <property name="HbShouldOpenHtmlAsHb" value="" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
     <property name="restartRequiresConfirmation" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\wamp64\www\theScore\assets\images" />
+      <recent name="C:\wamp64\www\theScore\assets" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -246,12 +178,12 @@
       <updated>1518714389579</updated>
       <workItem from="1518714391094" duration="6182000" />
       <workItem from="1518729080002" duration="2099000" />
-      <workItem from="1518731218584" duration="2760000" />
+      <workItem from="1518731218584" duration="5904000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11041000" />
+    <option name="totallyTimeSpent" value="14185000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -263,7 +195,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="768" extended-state="6" />
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1429652" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -307,7 +239,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15283#15289#0" expanded="true" />
+            <element signature="e#10006#10012#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -318,7 +250,7 @@
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15283#15289#0" expanded="true" />
+            <element signature="e#10006#10012#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -348,29 +280,47 @@
         <state />
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/ckeditor/ckeditor.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="35" column="31" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="321" selection-end-column="0" />
+        <state relative-caret-position="220">
+          <caret line="36" column="8" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <element signature="e#15283#15289#0" expanded="true" />
+            <element signature="e#10006#10012#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/new_mission.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="367">
-          <caret line="385" column="56" lean-forward="false" selection-start-line="385" selection-start-column="56" selection-end-line="385" selection-end-column="56" />
+        <state relative-caret-position="257">
+          <caret line="44" column="102" lean-forward="false" selection-start-line="44" selection-start-column="102" selection-end-line="44" selection-end-column="102" />
           <folding>
             <element signature="n#select#0;n#div#0;n#div#0;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#0;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#1;n#div#2;n#fieldset#0;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="n#fieldset#2;n#form#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="false" />
-            <element signature="e#38535#38541#0" expanded="true" />
+            <element signature="e#30838#30844#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5029">
+          <caret line="225" column="0" lean-forward="true" selection-start-line="225" selection-start-column="0" selection-end-line="225" selection-end-column="0" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#10006#10012#0" expanded="true" />
           </folding>
         </state>
       </provider>
